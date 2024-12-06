@@ -34,6 +34,7 @@ public class Product {
         return productName;
     }
 
+    //Product Name
     public void setProductName(String productName) {
         this.productName = productName;
     }
