@@ -10,6 +10,7 @@ public class Product {
     private String productName;
     private int price;
 
+    //New Items
     public Product () {
 
     }
