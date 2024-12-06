@@ -9,6 +9,7 @@ import java.util.List;
 @Service
 public class ProductService {
 
+    //List of Products
     List<Product> products = Arrays.asList(
             new Product(101, "Iphone", 50000),
             new Product(102, "Camera", 7000),
