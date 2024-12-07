@@ -33,13 +33,12 @@ public class Product {
         return productName;
     }
 
-    //Product Name
     public void setProductName(String productName) {
         this.productName = productName;
     }
 
     public int getPrice () {
-        return  price;
+        return price;
     }
 
     public void setPrice (int price) {
